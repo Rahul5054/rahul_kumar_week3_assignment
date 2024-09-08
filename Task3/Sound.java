@@ -1,0 +1,4 @@
+interface Sound {
+    
+    void singSong();
+}
